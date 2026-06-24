@@ -1,10 +1,15 @@
-![Zeigestock Everywhere - The only browser extension you will ever need...](./branding/banner.png)
+![Zeigestock Everywhere - Nicht der nächste Youtube Downloader!](./branding/banner.png)
 
 <p align="left">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/zeigestock-everywhere/">
         <img height="50px" alt="Available on Mozilla Web Store" src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Mozilla/Firefox/Get%20The%20Add-On.svg">
     </a>
 </p>
+
+Use Cases:
+- point at things
+- easily capture screenshots with a *Zeigestock* pointing at whatever you want to show (screenshot capturing not included)
+- easily show people looking over your shoulder what you want to highlight on the web page
 
 Extension for all Chromium- and Gecko-based Web Browsers that replaces your cursor with a *Zeigestock* whereever possible.
 Derived from [my websites](https://codeberg.org/haesemeyer/pages) `zeigestock.js`
