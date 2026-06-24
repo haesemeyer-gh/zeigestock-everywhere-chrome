@@ -68,7 +68,7 @@ var zeigestockDefaultEnabled = true; // enabled by default with extension
     window.addEventListener('touchmove', (e) => {
         moveMouse(e.touches[0].clientX, e.touches[0].clientY);
         e.preventDefault();
-    }, { passive: false }); // passive: false on extension for better performance, disables scrolling on actual page script
+    });
 
     /* Menu */
 

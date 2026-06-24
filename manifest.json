@@ -2,7 +2,7 @@
     "name": "Zeigestock Everywhere",
     "description": "zeigestock.js for browsers",
     "author": "haesemeyer <haesemeyer@mailbox.org>",
-    "version": "2.1",
+    "version": "2.2",
     "manifest_version": 3,
     "browser_specific_settings": {
         "gecko": {
