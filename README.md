@@ -1,6 +1,4 @@
-# 👈 Zeigestock Everywhere
-
-![Logo: Explodierender Zeigestock](./assets/icon-128.png)
+![Zeigestock Everywhere - The only browser extension you will ever need...](./branding/banner.png)
 
 <p align="left">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/zeigestock-everywhere/">
